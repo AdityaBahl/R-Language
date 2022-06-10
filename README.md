@@ -21,49 +21,49 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-ksfTgQOOnE+FFXf+yNfVjKSlEckJAdufFIYGK7ZjRhWcZgzAGcmZqqArTgMLpu90FwthqcCX4ldDgKXbmVMeuQ==" rel="stylesheet" href="https://github.githubassets.com/assets/light-92c7d381038e.css" /><link crossorigin="anonymous" media="all" integrity="sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf4Yp7dI0ZTWO+ljg==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d4a90c367f0c.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5e900c04c491.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-dc71761d9e0b.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-f89f23dd3d24.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-010780c79c07.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a0004.css" />
   
     <link crossorigin="anonymous" media="all" integrity="sha512-EAhBCLIJ/pXHG3Y6yQhs9s53SHV80sjJ+yCwlQtfv7LaVkD+VoEuZBZ5betQJFUNj/5qBSfZk5GFtazEDzWLAg==" rel="stylesheet" href="https://github.githubassets.com/assets/primer-10084108b209.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-A21HqAhL/OxKOsFNA4IZins9rOVeIzPtwnllQ+2sh+mWcSKW4543tZU/ZGFLeCAE0q6BmKwaoOmBGu3rkYA1MQ==" rel="stylesheet" href="https://github.githubassets.com/assets/global-036d47a8084b.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-ibIZ92zEQyOftEEpDx+FFlAIrlmL09qL8CepuUTpsmFMBBQDmygSbeDQYNiRrSTPck6cGrPs56b+tFSGBafkhw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-89b219f76cc4.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-BYQpIb2L3J6a6i+6DajueYdrWor0zX3UUimHvvtT+XEpVYUSkPOmqpZvzBuS6Gv0lsM2SpRqkx5FInWgQNKd0w==" rel="stylesheet" href="https://github.githubassets.com/assets/global-05842921bd8b.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-Gcs91K1JKNvrlE2/9LqOuZofrxf3aIsEpY51GRZKRX9NR795ypJRAbzNyf97FcwcBMS7ekfniPkuShlApTv9hg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-19cb3dd4ad49.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-zEhC4QTp3OgAVE8kpOTPyZ8c0/WXSPkN4P3tRSJI5Y/auCUe8VTQ5V3C0LSX7w4+vrn+khuGo6ReoFJBRIwSwg==" rel="stylesheet" href="https://github.githubassets.com/assets/code-cc4842e104e9.css" />
 
-    <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;21427950901&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;21429710665&quot;, &quot;key&quot;: &quot;beginner&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;21437291543&quot;, &quot;key&quot;: &quot;upstart&quot;}], &quot;id&quot;: &quot;21445030708&quot;, &quot;key&quot;: &quot;_259_zero_user_dashboard&quot;, &quot;layerId&quot;: &quot;21434011841&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 3334}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 8333}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;3c64268131793aa297119a343c19e345&quot;: &quot;beginner&quot;, &quot;95b24126db31ea8693c0fe5ea9f53b65&quot;: &quot;beginner&quot;, &quot;086e2abe64e9101112af53b95d2d90b9&quot;: &quot;upstart&quot;, &quot;bae688df9d297afac98e2d254e912ada&quot;: &quot;control&quot;, &quot;6c2cfda7c41396fcc31a4db759a42b94&quot;: &quot;beginner&quot;, &quot;16ed2b4ff7de02663b7c606309695916&quot;: &quot;control&quot;, &quot;1971768911.1635962195&quot;: &quot;beginner&quot;, &quot;830bf802470ec6c9c5800c99d8e57445&quot;: &quot;beginner&quot;}}], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}], &quot;revision&quot;: &quot;1259&quot;}" />
+    <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;21427950901&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;21429710665&quot;, &quot;key&quot;: &quot;beginner&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;21437291543&quot;, &quot;key&quot;: &quot;upstart&quot;}], &quot;id&quot;: &quot;21445030708&quot;, &quot;key&quot;: &quot;_259_zero_user_dashboard&quot;, &quot;layerId&quot;: &quot;21434011841&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 3334}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 8333}, {&quot;entityId&quot;: &quot;21427950901&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;3c64268131793aa297119a343c19e345&quot;: &quot;beginner&quot;, &quot;95b24126db31ea8693c0fe5ea9f53b65&quot;: &quot;beginner&quot;, &quot;086e2abe64e9101112af53b95d2d90b9&quot;: &quot;upstart&quot;, &quot;bae688df9d297afac98e2d254e912ada&quot;: &quot;control&quot;, &quot;6c2cfda7c41396fcc31a4db759a42b94&quot;: &quot;beginner&quot;, &quot;16ed2b4ff7de02663b7c606309695916&quot;: &quot;control&quot;, &quot;1971768911.1635962195&quot;: &quot;beginner&quot;, &quot;830bf802470ec6c9c5800c99d8e57445&quot;: &quot;beginner&quot;}}], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [&quot;21445030708&quot;], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}], &quot;revision&quot;: &quot;1267&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/5NpXl1blm4/yVqzeSDBWG9LF9MasgUUlrkbi4RrRoqSDRb++kDuo1PKYt9TV7vS6Fgk99j4N6Fn3kpU22UzGA==" src="https://github.githubassets.com/assets/runtime-ff93695e5d5b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-PfXw42tAjgiNWFEyPPVPVjtNjurRRyz8GECEs+fUSJE+Bky1kIQYyuoi5MaCFfZrFK0E+SaFvE1zqCbBIrTiFg==" src="https://github.githubassets.com/assets/environment-3df5f0e36b40.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-z6Yg7mZpwxEJM9bQdWCj3SV8bWKW0akhKDjjZvknPIZi1r5vlHxZkZIv/XkgDhxjURefiXHmYbbzAz0HjXDFrg==" src="https://github.githubassets.com/assets/runtime-cfa620ee6669.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ntRCVTWIbIqsuLWHTI1Y4uozAFqEB+1R17JHLEkwnNzp5vnTUS6c7GM6TZ9r8Ttg/y+Gy0TdnSB8qcV02IovLQ==" src="https://github.githubassets.com/assets/environment-9ed442553588.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-io+1MvgXPXTw8Kp4eOdNMJl8uGASuw8VfTY5VeIFETaAknimWi8GoxggMEeQ6mq0de4Dest4iIJ/9gUbCo0hgw==" src="https://github.githubassets.com/assets/vendors-node_modules_selector-observer_dist_index_esm_js-8a8fb532f817.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Es25N4GyPa8Yfp5wpahoe5b2fyPtkRMyR6mKIXyCJC0ocqQazeWvxhGZhx3StRxOfqDfHDR5SS35u/R3Wux6Cg==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-63debe-12cdb93781b2.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-lmiecOIgf+hakg5oKMNM7grVhEDyPoIrT39Px448JJH5PSAaK21PH0Twgyz5O5oi8+dnlLr3Jt8bBCtAcpNdRw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-c7e9ed-96689e70e220.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-y67eNkVaNK4RguUGcHOvIbHFlgf1Qje+LDdjVw2eFuuvBOqta2GePz/CwoLIR/PJhhRAj5RPGxCWoomnimSw6w==" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_time-elements_dist_index_js-cbaede36455a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6ehrOOu5AOQD8/Lw6TgTsdkj9odsrpi0xWo0vkH3wBR3vIw/Bj/Rxw9wZMfw2qVzdqqF/pCiaJ5f0A/P6HtGrw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-52e104-e9e86b38ebb9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-DE9GK/TS3Hf/dJfP1GMiyjvsGRnpR4A1eGH64s0Ot7Vy7Tj7/aD1d5EOMWHFWQXlXy/ZSwu5MHInG6RZN31bMA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-52e104-0c4f462bf4d2.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-l//8hwOiwPAmBg0NwsWUYovdQ7/r9kPHiD9/LL4fD3M7El8gbgaOYU5+o6cYLB6puSfOTxyN9M6fE38HSDr2Bw==" src="https://github.githubassets.com/assets/github-elements-97fffc8703a2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-RVfrK7GqzKgqgrdk4OZy+0LLxAMJ1odMQC1/Qt7SpwSHjE9s4R0/09fu5QvzcQ6XdNZMjJ1Wy8Cr6wL3Q+HCcQ==" src="https://github.githubassets.com/assets/element-registry-4557eb2bb1aa.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KtZ0W50MmMMIsvfhj3lRjgzZjn6x0Xax7Ns0/ZH9A2EFTa5ddjnygStHPbStQoL76hdThnMKgmXHBcEd2SUXTg==" src="https://github.githubassets.com/assets/element-registry-2ad6745b9d0c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-uo73yUZcm4EicwjSbfxFZcKfjWniOxhLBp+q1n7IFRfutFM6/lzbQMgD0Xrxp7QD1HzqdvrV8UclPhi3mEOyzQ==" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-ba8ef7c9465c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LWSGAMIPWi+15W2gBjmxbtVqU0DamkrNOQylAjPL8509iKnuWgSLdjylDv3WWm/9p6h2U/D//3i6BiiGFZPXJA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_catalyst_lib_index_-87b1b3-2d648600c20f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0r1nf/rfPz54kyePp4f63bcPxkFo7wyaUZJD/SwIVDK3q0WzurAK9ydOm88tzKtPJm8xWI0Vo25NyCfecwxJ9g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_hotkey_dist_index-9f48bd-d2bd677ffadf.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-VK56d0N1hPZ20mOzPoy84zlTGCjGbKKmVvfjoyDqSF+VxTD4f6X8QDs2RgG1R1cdBmsCiea+ZxP6ukV3tHlD+Q==" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-df2537-54ae7a774375.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-iraNwY+fyIve2sJCozDBcmM+95HPXfHuF0NOFxkz2dxvPam8KWz/k3016YNnuFjChRY6c3m374XSV8lLtafTSQ==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-8ab68dc18f9f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-318SWYQMEUmWdOuBzC1KdeVyyq5RDCiMNGP7Jh9s/Oz68Yy8e94t8qKxiCnfFKnzfpN3MxrATi7jCQyDv6jh0w==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-df5f1259840c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-2hsYB2KHyayxUJJxJGhXeTeTZZG2c7lzRtO0uB1txmpc7rfvIt4mf0iossT0MHIHknYlaslgi98jmmlVXcXaZQ==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-af52ef-da1b18076287.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Xjv4gHGYsyOf5N49Xr6L266kE7AbvyqzdEUm9TrJmYNhGI0CZO5Uoh01ogCAsYo2J44xyDNYNKN00y4Y37w4Mw==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_behaviors_include-fr-34e1f7-5e3bf8807198.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qpqN6F5/21iq4tgvOl7fE06uG1bsga+W1SPGDzIfoPnmgzVCuIOCwAl3aaVmWwV/1iT6AoMAQQHzWij/EMfXYA==" src="https://github.githubassets.com/assets/behaviors-aa9a8de85e7f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-O4QCEHjN5g9SG+Bqu36E7RCxy4hi2w3nyDWVsHwc/hUgAMsYntgibQcLNqSrar4T78Dnj0NZgM/C4FhFt8DIag==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-6e358f-3b84021078cd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-pjXRtHnuGviod/p7ehpd5u4h3XuWgoq1B01XXR8P1KGHTo2WyGsQUZUNvO+WUAPmDkCTa52pciRr4MJj50W9LA==" src="https://github.githubassets.com/assets/notifications-global-a635d1b479ee.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-F2SXMZqmxRkFqNNEibrTdR1mbEplGxQb+UEwflrvU8GraZF4+y0XeTBwEXjWHFOA7OvT1B22XRPEm/RPMi68ew==" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-05bb82-176497319aa6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-O1pvnG7V2Ciir8DFZQR9wu4dndfLBXjE3BCUJap9Nyrxmxgi2LA32o3tGpM1nX/rgVh0XB2gRJf3NMRtUNTzLg==" src="https://github.githubassets.com/assets/optimizely-3b5a6f9c6ed5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8eyyuvsdeUUBrkTsu7OePie4HdGA6yQww2w70dhs28WU0cMh5qhDM1vHrLOwJdbFQodch4KNQ1rv6KNyw1XMpA==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_behaviors_include-fr-a5a4c7-f1ecb2bafb1d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-GWQ27azq5b7LlDapovgKc5QJhM7U/vjXFkvc7P5/rxjM10DYTUdfmF/3uY8Yb5v3ZJQ0LLYgRJ6YykZb/dt7bA==" src="https://github.githubassets.com/assets/behaviors-196436edacea.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-5TgQgL4pzLQjP5MQ8D/w6TMLd2O+1AklcNO40xyd6v8d8LidTk63Z437jQpgeUWhK5e1tv89p5KsIWdXC84EkQ==" src="https://github.githubassets.com/assets/notifications-global-e5381080be29.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-1b+YhvQsW1BdKi3eWSc7oNSGJcrQalc3oxxMoXI8foh3weo2AOLx86EMZ5J1a541yu2y7Axj7Vntn1T66EW8dA==" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-77839b-d5bf9886f42c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-hs2Ic2oVr2idYsYCFN4G3uqsp5rjj+8ZpO4u5iAoEeWXFfmN71a/TpuoCyblD4+7dK0PcdjYKdYiHDT7v5fXqQ==" src="https://github.githubassets.com/assets/optimizely-86cd88736a15.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-yG3t7Lpt5yKkdMNXFpl75Xemm+g4ghZ5e8xRBwl/HMbmgc3htVvxrjbohbK9MMfnnci1SnogZNH9DhJHYdQf3A==" src="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-c86dedecba6d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-PZx2ECbEOLyNjLqDpFJVzdfRl4iXDAct8DDxJoT9Iil5OqSo7m8dXuy5uX5LavIwnsVb/poLucnjk67WyZAMJQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_remote-form_-2c55be-3d9c761026c4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-FNWxKHkUqs6+xuyyZpMx9BmvcxQqIgVJ5A+PmdU82lZO41cFlo6y6ddHkRfWh2Zd6j9ozvndvrTaOuEH58VvEw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_filter--fd67a9-14d5b1287914.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-e1KoVFLp3lYt2ANPy9eg/lux8nLcAtTwWLd7F6ul/1uyw5BCx118juiM+STEPDlYdrLTHMs/k0y8kBVO+Q3RIQ==" src="https://github.githubassets.com/assets/app_assets_modules_github_fetch_ts-app_assets_modules_github_form_ts-app_assets_modules_githu-dec477-7b52a85452e9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rk2p3bSx2LjSrvgD7oJPwHJl3WeLsb5GwT+l2qENOhopFeFbSoMOI5aQptulNX6NdKO+MOazWlQAyNdldUgPEg==" src="https://github.githubassets.com/assets/repositories-ae4da9ddb4b1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Mc2pkINU6rlGF10IG+S/Gq7oIDIiOUE+tIxB2E2EetcNdSBNyELodHrJx1LjqDM/ew8TKZaoNOIn428Pwt+C0Q==" src="https://github.githubassets.com/assets/diffs-31cda9908354.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-dAabCMULUfibZDcNGDpWbINNJawdJeCfhl8ZTGFEYvgpblXXQIBlutl5zv0oOqc0p1ginRnWy4mAZES/swKmZA==" src="https://github.githubassets.com/assets/app_assets_modules_github_fetch_ts-app_assets_modules_github_input-demux_ts-app_assets_module-e5b55c-74069b08c50b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-s2yKeiOgdzKadAd7ktuEcucP/yXQjXhSIczfbQUQtelRmn9dQZ7UMO3Hx7GON+KJrf+ESAMnA2DKeW+GWI821A==" src="https://github.githubassets.com/assets/repositories-b36c8a7a23a0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-2IO4DDKs14Xk+vMRzfe3NVcyY5Bsb071hi/LJEZcTTo74dZ9sgelYQaCPu0nh3qsny1AvzutHZyuvBmt0fbguA==" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f314c3-d883b80c32ac.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WsPOGnkWtqT5OK/TKUWJdLBQtCBj+l3ib4PnBOxRA4gOeNmO4qVVjQloNmUTT0l0F2QQHPtCTME7iTKdpk4pHg==" src="https://github.githubassets.com/assets/diffs-5ac3ce1a7916.js"></script>
   
 
-  <title>R-Language/README.md at main · AdityaBahl/R-Language</title>
+  <title>R-Language/README.md at master · AdityaBahl/R-Language</title>
 
 
 
     
 
-  <meta name="request-id" content="66CE:50E6:478593:4E39DE:629E2C14" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7380511e7d901b8b4a567593294ab6aa48565420e71ab1999ea4f46150f2942f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0eWFCYWhsL1ItTGFuZ3VhZ2UiLCJyZXF1ZXN0X2lkIjoiNjZDRTo1MEU2OjQ3ODU5Mzo0RTM5REU6NjI5RTJDMTQiLCJ2aXNpdG9yX2lkIjoiMjI1OTY5ODEzMTMzMjYyOTE2MSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="214b87fdee1317b05ba49416792626c4f37af3c21b771cd93f753749714c397c" data-pjax-transient="true" />
+  <meta name="request-id" content="C60F:704C:AEC120:CCA4CC:62A36D01" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7380511e7d901b8b4a567593294ab6aa48565420e71ab1999ea4f46150f2942f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0eWFCYWhsL1ItTGFuZ3VhZ2UiLCJyZXF1ZXN0X2lkIjoiQzYwRjo3MDRDOkFFQzEyMDpDQ0E0Q0M6NjJBMzZEMDEiLCJ2aXNpdG9yX2lkIjoiMjI1OTY5ODEzMTMzMjYyOTE2MSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="dfad7b16c9f677149677df1d01b74486c5dcefda06d81003b3dcef9835da7d0d" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:500509426" data-pjax-transient>
 
@@ -98,11 +98,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4edc95403e86710fd1fbe86e913f241d0161faa3b6548b4a2a55ba5bab8e7c37/AdityaBahl/R-Language" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="R-Language/README.md at main · AdityaBahl/R-Language" /><meta name="twitter:description" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/4edc95403e86710fd1fbe86e913f241d0161faa3b6548b4a2a55ba5bab8e7c37/AdityaBahl/R-Language" /><meta property="og:image:alt" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="R-Language/README.md at main · AdityaBahl/R-Language" /><meta property="og:url" content="https://github.com/AdityaBahl/R-Language" /><meta property="og:description" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4edc95403e86710fd1fbe86e913f241d0161faa3b6548b4a2a55ba5bab8e7c37/AdityaBahl/R-Language" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="R-Language/README.md at master · AdityaBahl/R-Language" /><meta name="twitter:description" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/4edc95403e86710fd1fbe86e913f241d0161faa3b6548b4a2a55ba5bab8e7c37/AdityaBahl/R-Language" /><meta property="og:image:alt" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="R-Language/README.md at master · AdityaBahl/R-Language" /><meta property="og:url" content="https://github.com/AdityaBahl/R-Language" /><meta property="og:description" content="Practice and commands of R Language. Contribute to AdityaBahl/R-Language development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90335449/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDMzNTQ0OSwicyI6ODg0ODMyODA2LCJjIjo2MjY5MTU3NzQsInQiOjE2NTQ1MzMxNDB9--041147c900365f01196bba9801bc3f77802c7fe08bf12f501f8a6a1d62e202c5" data-refresh-url="/_alive" data-session-id="662f1b3442e36fe3c66bd06e468b529fc9a6fb3e2069108adc7cb79817a691af">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90335449/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDMzNTQ0OSwicyI6ODg0ODMyODA2LCJjIjoxOTM0MDc1NzcwLCJ0IjoxNjU0ODc3NDQxfQ==--b3b4f388eae7367d57b8a40e7070018303db3a5bca33546d790642f5e6671110" data-refresh-url="/_alive" data-session-id="662f1b3442e36fe3c66bd06e468b529fc9a6fb3e2069108adc7cb79817a691af">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -115,15 +115,15 @@
 
         <meta name="expected-hostname" content="github.com">
 
-        <meta name="js-proxy-site-detection-payload" content="NjUwOTU1OTQ3M2RiN2E1NzdkZDFjNzQxN2JhZDgyNTYwNjliMjA0YWIzNzlhOTU5ZjcyYzUwNDU5YjU0NzYyZXx7InJlbW90ZV9hZGRyZXNzIjoiMTA2LjIxMS4yNS4yMyIsInJlcXVlc3RfaWQiOiI2NkNFOjUwRTY6NDc4NTkzOjRFMzlERTo2MjlFMkMxNCIsInRpbWVzdGFtcCI6MTY1NDUzMzE0MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+        <meta name="js-proxy-site-detection-payload" content="YmY0NzgyMzg0ZDE5MWJlNjQyNzQyZDBhMDZkNDIzZDg1ZGJlOTg0YzhlNzMwZmFkMjc0MWViOTExYjRhZTdkYnx7InJlbW90ZV9hZGRyZXNzIjoiMTMyLjE1NC4zNS4yMjIiLCJyZXF1ZXN0X2lkIjoiQzYwRjo3MDRDOkFFQzEyMDpDQ0E0Q0M6NjJBMzZEMDEiLCJ0aW1lc3RhbXAiOjE2NTQ4Nzc0NDEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
-    <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,PRESENCE_IDLE">
+    <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,PRESENCE_IDLE,RELEASE_PREV_TAG_PICKER">
 
 
-  <meta http-equiv="x-pjax-version" content="88baa2cf389fe1bfe1d202bfcadd5d2fedf71527ce0c2a2514665179534a22d2" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="d375896fe996dd4a90bb876056bcd28a2f0828507c7fdc1f26d7fc8bb82150b6" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="485d6a5ccbb1eeae9c86b616b4870b531f6f458e8bd5c309c40280dc4f51defb" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="35d961c3a27edcfd8d254e14164d17070db89f0b37b390d3a052d4dcee44559f" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="0ebdefc8775a3a49997042a6bbe8081e903119280004ce4ac897170231403eba" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="dc1227a73668a60464f2e7dcac430c19b08fe95b4cb6118182a4e26fe651245d" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="e4f75db3035abf7388e7215cc238361567ea9c962f82faabc3336dd4ded41a46" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview"></meta>
 
@@ -134,7 +134,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/AdityaBahl/R-Language/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/AdityaBahl/R-Language/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -168,10 +168,10 @@
       
 
 
-        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vq9xa9mXhnKoPKegD98xDdz3z2QGmpBBTgEdXLjXQWpAHaNrJgMoKO/tWwQg3XrNHOMwbWccPo2ej0RASJ32Jw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_catalyst_lib-098f88-beaf716bd997.js"></script>
+        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-OHhXDxIrjPxihpsnEsdJIpYDgh6bGwApvWK+bwqF13y6Ak9m3kdck0ebA+tS11pFq3xJRIrc/19EL7UiCE9c4A==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_catalyst_lib-6e1996-3878570f122b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-UjJpp2TqOgteHXA9PI+aCQBM1ycKLh+WcWtL7iaca9LQJZpO4cU0/mR42dEb/ve0BU6GRLZxY0sTX3qewu5ELg==" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_delegated-e-e4591b-523269a764ea.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ENZBl5ak7iersZqBgOpCIgUVaifdZ7K7Mk1OUDXe1htGHNkuwts57bDeUYSxgowtggGztUIT4Kw+FdMxsop2jw==" src="https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-48ad9d-10d6419796a4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-1XzH8IM1sN4fRWguYcb3msltrr8nYBAo5A4T4jAMgo/1M87wTxirvkKE22dqrGAbgjkEnncA2xrjEt5U9oDSBQ==" src="https://github.githubassets.com/assets/command-palette-d57cc7f08335.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/qzfoq+TnoHfeuoZHr6nFYLGWikXpBIrCV3bYSi0vg/3IGvkwsIrAxSF+3semDA1jOf1zVVWE8jndHC3oFsjDA==" src="https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-7e29fd-feacdfa2af93.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Hr4SaTyjlHJKh5Z57CDtM94FxVrIE2jh3YxEdnRt1KArhC8pDR/kDd5ppEiw+AThwr5cCMsJSVU84SNE3APNiw==" src="https://github.githubassets.com/assets/command-palette-1ebe12693ca3.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
@@ -226,7 +226,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="UQNDus1f4Nw0Kb-wzz8s0AJ9tUeH8ISghr0-1ipvudGe1NBvuR0Nkwxl4zctTWUlxFjCdKRbUucidRqmN7O4hg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="VwTKHEn4BSUM120A29B7nD7GmDB5820fup_bj0KD25uY01nJPbroajSbMYc5ojJp-OPvA1pYu1geV___X1_azA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -425,7 +425,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AdityaBahl&quot;,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="bf7cc505ada2d2cd342bda2afb7f8d94f5d0017c091584c3612bfbf2777f7cd2" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AdityaBahl&quot;,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="2ccb7b2edad7335dbbb97a7b7ccf2d37537a3f13d58c7e3de10697a2dc82e4d2" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -433,7 +433,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/90335449?s=40&amp;v=4" width="20" height="20" alt="@AdityaBahl" />
       AdityaBahl
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4cgDrbNPpb120WLHoOAqiYFG-jy3TvbTsJ6J_F3DkZVaKgO7XNePisw6BuJXX7Rh6HT1hP-qBEzKNEMo3TqpIA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-dWAGnCFiJPsUkGh6R55IteTgPqlnHCpFJJnuLkXCeFCN4AMnx2ipFa5JYQeoefKvqGPQu14gjZuOK1sOe4xVA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -468,24 +468,23 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-
-      <notification-indicator
-        class="js-socket-channel"
-        data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTAzMzU0NDkiLCJ0IjoxNjU0NTMzMTQxfQ==--4cfa75be9befa2b1474ab493b0cd0f590f7751f94fdf14a7cbf7566cc19af30e">
-        <a href="/notifications"
-          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
-          
-          aria-label="You have no unread notifications"
-          data-hotkey="g n"
-          data-ga-click="Header, go to notifications, icon:read"
-          data-target="notification-indicator.link">
-          <span class="mail-status  " data-target="notification-indicator.modifier"></span>
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell">
+    <notification-indicator
+      class="js-socket-channel"
+      data-test-selector="notifications-indicator"
+      data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTAzMzU0NDkiLCJ0IjoxNjU0ODc3NDQxfQ==--a1194fa02483e9dab61e127a7912acaab2417bbaff34c249cdefa694d8ff63e3">
+      <a href="/notifications"
+        class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
+        
+        aria-label="You have no unread notifications"
+        data-hotkey="g n"
+        data-ga-click="Header, go to notifications, icon:read"
+        data-target="notification-indicator.link">
+        <span class="mail-status  " data-target="notification-indicator.modifier"></span>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
-        </a>
-      </notification-indicator>
+      </a>
+    </notification-indicator>
 
     </div>
 
@@ -609,7 +608,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/AdityaBahl/R-Language/blob/main/README.md
+      data-return-to=/AdityaBahl/R-Language/blob/master/README.md
       data-user-id="90335449"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -748,7 +747,7 @@
             autocorrect="off"
             autocapitalize="off"
             spellcheck="false"
-            class="js-input typeahead-input form-control border-0 box-shadow-none input-block width-full"
+            class="js-input typeahead-input form-control border-0 box-shadow-none input-block width-full no-focus-indicator"
             aria-label="Command palette input"
             aria-haspopup="listbox"
             aria-expanded="false"
@@ -761,10 +760,10 @@
             "
           >
         </div>
-        <button aria-label="clear command palette" aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keydown:command-palette-input#onClear" id="command-palette-clear-button" type="button" data-view-component="true" class="btn-octicon js-clear command-palette-input-clear-button"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
+          <button aria-label="clear command palette" aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg></button>
-        <tool-tip hidden="hidden" for="command-palette-clear-button" data-direction="w" data-type="description" data-view-component="true">Clear</tool-tip>
+          <tool-tip hidden="hidden" for="command-palette-clear-button" data-direction="w" data-type="description" data-view-component="true">Clear</tool-tip>
       </command-palette-input>
 
       <command-palette-page-stack
@@ -1558,10 +1557,10 @@
 
     <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/AdityaBahl/R-Language/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iSbI1HD_ExorkDCRRfMvsa2GghdGVgOT-cnz-jKFTs2Im_ZXHDoE81QLx1iJeNHZAg-WWmtMXgKNT5n4XO8inw" autocomplete="off" />
-      <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
+    <form data-turbo="false" action="/AdityaBahl/R-Language/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="1KEQKGJXFfX5xFgjD2UYzwww0qC6sDkdsPazRmc3nZOjgClDrxSdn45qYhi5QgtZ4kAIx6uJj41VJcRWoLnPpA" autocomplete="off" />
+      <button type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
-</svg>Pin
+</svg>Unpin
   
 </button></form>  </div>
 </li>
@@ -1578,7 +1577,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="d05c143548eb7b3f7f7f54b7d74c5a3ad3355d1129be58e154d3a1d0708b2c4d" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="4d371d6dd89ef6406e23ed3805cb1fdd7f4fdb96f72ad47a3f08cfd216198bfb" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               
               
@@ -1631,7 +1630,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XlcyK2j5-RT80X1Vwzyu7BfevWgsNSSqQfR7chvOdLo1BQpDMh-HPdW3iwER1LnFBYHtz8kYUhuTTImB_DZCkQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kjN0iB6ss4vG2QWVarERhHcovY44DdmCMg2y0pA6-yL5YUzgRErNou-_88G4WQatZXftKd0grzPgtUAhd8LNCQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="500509426">
 
@@ -1749,7 +1748,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_IB5VklfMN8V54Z8VAiHjv6Ca9qgHucQbUfZ-GwYiK2X0kE-E7lO9jyBcCiG4JCn7N07fUUzkaG__ysLi-C-hg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eHzs8Pi_4C8tBt_rnhIOBCuX5K2E-FmE8C57H_Cr8TATLtSYolmeBgRgKb9M-hktOci0CmHVLzUilonsF1PHGw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="500509426">
 
@@ -1925,19 +1924,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AdityaBahl/R-Language/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7eubLSX9dHfanWmVQepk9YPxLhh4hogdB_VXa1U77Kqc7Sw8clZFpv7NoOLIIzF8rmB01gR_RFAiWxJDaCS5hg" autocomplete="off" />
-        <input type="hidden" value="db0V9qrqP2Z7-PBGNioKCZJSWMc6Zuc9IuQeBY17n2AEu6Ln_UEOt1-oOTG_41-Av8MCCUafK3AHSlstsGTKTA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AdityaBahl/R-Language/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zSQ4-bTyGAKfQK4AraTl1FDzbIwR8bgdJdwVUdLmRpe8Io_o41kp07sQZ3ckbbBdfWI2Qm0IdFAAclB57_kTuw" autocomplete="off" />
+        <input type="hidden" value="ZUK7atvzK35d7AxtsKE2ooBT7tw_kP76icrnj_-OSz8URAx7jFgar3m8xRo5aGMrrcK0EkNpMresZKKnwpEeEw" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="338b0420eb9cb23e5a763d3d2bc93a3c13e108dd32182dcd7076efb160053c48" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="15a35787a809e042d84b073ffdd7750196e1abfd63e028d01da2e99868b312d1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AdityaBahl/R-Language/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qrm1hCt02bPUQOEHblVBnr9RIgpO8jHZH9CG2Uufa9hU_EUo7ePlB_X6fsRJt4h1pZfk-u3dvDaniz_YRQp6Kg" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AdityaBahl/R-Language/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Jqw0CY1ro_MndzfLOBO2lN_Lgcx3eEzKOBGER2QWxI_Y6cSlS_yfRwbNqAgf8X9_xQ1HPNRXwSWASj1GaoPVfQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="9d428e3770322ceb56e9b2779ca35dd22396c2304795179bafd2e2bc50f1e6d2" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="50eac35195532c36802b3bd2fc53e92dbea385abc1df21ef472aa2f5bc815d17" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1958,13 +1957,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5264b8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7e99cf">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-5264b8"
+        id="filter-menu-7e99cf"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2185,7 +2184,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AdityaBahl/R-Language/blob/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AdityaBahl/R-Language/blob/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2197,7 +2196,7 @@
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>master</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2243,9 +2242,9 @@
             "
             query-endpoint="/AdityaBahl/R-Language/refs"
             can-create
-            cache-key="v0:1654532819.09216"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
+            cache-key="v0:1654533387.4479098"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
             name-with-owner="QWRpdHlhQmFobC9SLUxhbmd1YWdl"
             prefetch-on-mouseover
           >
@@ -2255,9 +2254,9 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/AdityaBahl/R-Language/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NpJPVAHpPguH7aT2iF6pqLYQTOZgb-gCd8SNQ47_FxmWBgLxK-g5QTcoJbQBSLcPMpCaXZkDydYA-zkM0F0P7w" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/AdityaBahl/R-Language/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4Tz5ygFSNxjWGPc0sWb5X9HFdsfFciKFWTevr3FjrbxBqLRvK1MwUmbddnY4cOf4VUWgfDweA1EuCBvgL8G1Sg" />
       <input type="hidden" name="name" value="{{ refName }}">
-      <input type="hidden" name="branch"  value="main">
+      <input type="hidden" name="branch"  value="master">
       <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
 
       <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
@@ -2266,7 +2265,7 @@
 </svg>
         <div>
           <span class="text-bold">Create branch: {{ refName }}</span>
-          <span class="color-fg-muted">from ‘main’</span>
+          <span class="color-fg-muted">from ‘master’</span>
         </div>
       </button>
 </form></template>
@@ -2307,9 +2306,9 @@
             "
             data-targets="input-demux.sinks"
             query-endpoint="/AdityaBahl/R-Language/refs"
-            cache-key="v0:1654532819.09216"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
+            cache-key="v0:1654533387.4479098"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
             name-with-owner="QWRpdHlhQmFobC9SLUxhbmd1YWdl"
           >
 
@@ -2355,7 +2354,7 @@
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
     <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AdityaBahl/R-Language"><span>R-Language</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-  <a href="/AdityaBahl/R-Language/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
+  <a href="/AdityaBahl/R-Language/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
   
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
@@ -2366,7 +2365,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="5981f85e81e9db97b7421cb2fb9d315e4b02b3e8d40732cfe6cdd612bc415b33" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/AdityaBahl/R-Language/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="1c11ce34a253ebfaffa68ddfeb560d6a5853b3748eab10979db0651d2d32526a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/AdityaBahl/R-Language/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2385,7 +2384,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AdityaBahl/R-Language/blob/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AdityaBahl/R-Language/blob/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2414,10 +2413,10 @@
   
 </div></div>
 
-    <include-fragment src="/AdityaBahl/R-Language/spoofed_commit_check/3fc846288c0e9aee5e349261c82f9e03d8a191af" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/AdityaBahl/R-Language/spoofed_commit_check/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/AdityaBahl/R-Language/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/AdityaBahl/R-Language/contributors/master/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2457,11 +2456,11 @@
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/AdityaBahl/R-Language/blob/main/README.md?plain=1" data-permalink-href="/AdityaBahl/R-Language/blob/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <a href="/AdityaBahl/R-Language/blob/master/README.md?plain=1" data-permalink-href="/AdityaBahl/R-Language/blob/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
-</a>    <a href="/AdityaBahl/R-Language/blob/main/README.md" data-permalink-href="/AdityaBahl/R-Language/blob/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>    <a href="/AdityaBahl/R-Language/blob/master/README.md" data-permalink-href="/AdityaBahl/R-Language/blob/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
   
@@ -2469,59 +2468,64 @@
 
 
     <div class="BtnGroup">
-      <a data-permalink-href="/AdityaBahl/R-Language/raw/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md" href="/AdityaBahl/R-Language/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/AdityaBahl/R-Language/raw/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md" href="/AdityaBahl/R-Language/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/AdityaBahl/R-Language/blame/3fc846288c0e9aee5e349261c82f9e03d8a191af/README.md" href="/AdityaBahl/R-Language/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/AdityaBahl/R-Language/blame/6f8a05b8333ce6b1dbcf41483032ccff22c1d01e/README.md" href="/AdityaBahl/R-Language/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
-    <div>
+    <div class="d-flex">
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
              href="https://desktop.github.com"
              aria-label="Open this file in GitHub Desktop"
+             data-test-selector="open-in-desktop-non-dropdown"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
     <path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path>
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/AdityaBahl/R-Language/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+          
+<div data-test-selector="remote-clipboard-copy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/AdityaBahl/R-Language/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="149a730f5386cca45b25283d8a79eee07e13726d83651b997e2846a4e4e5ea79" aria-label="Copy raw contents">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="7ef997956170944874cbcf5d4ee4d97797dd8548c85956e13ad73385df5847b8" aria-label="Copy raw contents">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
 </span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">            <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
 </span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Copied!">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-            </span>
+      </span>
 </span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
 </svg>
-            </span>
+      </span>
 </span>
-</remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/AdityaBahl/R-Language/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3J0wBmlSlBzIejcChWu90BypeiSKpJHpDZRLouT5fHgxaHm_0XYRKFqs0oKSHMJP9B2z5X4tyQWu4V2ANeEv1g" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+</remote-clipboard-copy></div>
+
+
+
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/AdityaBahl/R-Language/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gS7vysjXsZlo2wxu2WWynTn75N56z61Y7_1ql_UIGNgRGj9Ea74ckuDJZjU_B11s0jIGgJ_t0pNY-JsXR6OZgg" />
+              <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+                aria-label="Edit this file" data-hotkey="e" data-disable-with data-test-selector="edit-non-dropdown">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
-            </button>
+              </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AdityaBahl/R-Language/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HxY0vAIAVeRLswCmfS4v7ZbNftB5SQF77GXyfyomxdInwr2gSd7MxuKRoRMH-YcLLL2r9F_qQcR617mxS0n-yw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AdityaBahl/R-Language/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3h8sMFlbvkxI-3LBL23dZHNz4u-cniK4X5BseU30by34VpYafDd1KLjxY74FpLau845b5pvFJBzdyUIMTuNT-A" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2549,15 +2553,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/AdityaBahl/R-Language/raw/main/README.md">
+            <a class="dropdown-item" href="/AdityaBahl/R-Language/raw/master/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/AdityaBahl/R-Language/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/AdityaBahl/R-Language/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/main/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="149a730f5386cca45b25283d8a79eee07e13726d83651b997e2846a4e4e5ea79">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:500509426,&quot;originating_url&quot;:&quot;https://github.com/AdityaBahl/R-Language/blob/master/README.md&quot;,&quot;user_id&quot;:90335449}}" data-hydro-click-hmac="7ef997956170944874cbcf5d4ee4d97797dd8548c85956e13ad73385df5847b8">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2580,17 +2584,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/AdityaBahl/R-Language/blame/main/README.md">
+              <a class="dropdown-item" href="/AdityaBahl/R-Language/blame/master/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/AdityaBahl/R-Language/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/AdityaBahl/R-Language/edit/master/README.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/AdityaBahl/R-Language/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/AdityaBahl/R-Language/delete/master/README.md">Delete file</a>
               </li>
         </ul>
       </details>
